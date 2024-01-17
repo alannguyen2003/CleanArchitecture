@@ -1,0 +1,12 @@
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\bin\Debug\net7.0\Domain.deps.json
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\bin\Debug\net7.0\Domain.dll
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\bin\Debug\net7.0\Domain.pdb
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\Domain.dll
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\refint\Domain.dll
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\Domain.pdb
+E:\Semester 6\Project ELCA\TestCleanArchitecture\Domain\obj\Debug\net7.0\ref\Domain.dll
